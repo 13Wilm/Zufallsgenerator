@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Zufallsgenerator</string>
+    <string name="title">Zufallsgenerator</string>
+    <string name="default_list_name">Meine Liste</string>
+    <string name="new_list">Neue Liste</string>
+    <string name="new_list_title">Neue Liste</string>
+    <string name="list_name_label">Name der Liste</string>
+    <string name="create">Erstellen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="delete_current_list">Aktuelle Liste löschen</string>
+    <string name="add_item_label">Eintrag hinzufügen</string>
+    <string name="add">Hinzufügen</string>
+    <string name="delete">Löschen</string>
+    <string name="spin">Zufällig auswählen</string>
+    <string name="spinning">Dreht sich …</string>
+    <string name="delete_all">Alle Einträge löschen</string>
+</resources>

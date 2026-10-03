@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Random Picker</string>
+    <string name="title">Random Picker</string>
+    <string name="default_list_name">My list</string>
+    <string name="new_list">New list</string>
+    <string name="new_list_title">New list</string>
+    <string name="list_name_label">List name</string>
+    <string name="create">Create</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_current_list">Delete current list</string>
+    <string name="add_item_label">Add an item</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="spin">Pick randomly</string>
+    <string name="spinning">Spinning …</string>
+    <string name="delete_all">Delete all items</string>
+</resources>
