@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Zufallsgenerator</string>
     <string name="title">Zufallsgenerator</string>
-    <string name="default_list_name">Meine Liste</string>
+    <string name="none">keine</string>
     <string name="new_list">Neue Liste</string>
     <string name="new_list_title">Neue Liste</string>
     <string name="list_name_label">Name der Liste</string>
@@ -11,7 +11,25 @@
     <string name="add_item_label">Eintrag hinzufügen</string>
     <string name="add">Hinzufügen</string>
     <string name="delete">Löschen</string>
+    <string name="delete_drawn">Gezogenen Eintrag löschen</string>
     <string name="spin">Zufällig auswählen</string>
     <string name="spinning">Dreht sich …</string>
     <string name="delete_all">Alle Einträge löschen</string>
+    <string name="select_list">Liste</string>
+    <string name="empty_list">Füge Einträge hinzu</string>
+    <string name="trash">Papierkorb</string>
+    <string name="trash_count">Papierkorb (%d)</string>
+    <string name="trash_empty">Der Papierkorb ist leer</string>
+    <string name="restore">Wiederherstellen</string>
+    <string name="restore_all">Alle wiederherstellen</string>
+    <string name="empty_trash">Papierkorb leeren</string>
+    <string name="settings">Einstellungen</string>
+    <string name="settings_title">Einstellungen</string>
+    <string name="app_color">App-Farbe</string>
+    <string name="app_color_hint">Ändert die Farben in der App. Das Icon auf dem Homescreen bleibt gleich.</string>
+    <string name="show_drawn_delete">Löschbutton anzeigen</string>
+    <string name="show_drawn_delete_hint">Zeigt nach dem Ziehen einen Button zum Löschen.</string>
+    <string name="use_trash">Papierkorb verwenden</string>
+    <string name="use_trash_hint">Gelöschte Einträge können wiederhergestellt werden. Beim Ausschalten wird der Papierkorb geleert.</string>
+    <string name="close">Schließen</string>
 </resources>
